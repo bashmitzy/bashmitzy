@@ -96,3 +96,5 @@ Cancelamos el coseno y la magnitud A, por ser factor común contra el  cero,
 
 La frecuencia de oscilación del péndulo, ω, depende de la gravedad y del largo del colgante.
 
+El programa pendulo3d.py está escrito para simular el movimiento del  pendulo basado en la función coseno mencionada en el texto. La frecuencia de oscilacion
+depende del largo del pendulo y la gravedad. Tambien muestra la posición de la masa en coordenadas rectangulares x,y respecto al origen.
